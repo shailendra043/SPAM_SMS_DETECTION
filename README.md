@@ -4,6 +4,7 @@
  git overview
 ![Spam Detection](https://via.placeholder.com/800x200.png?text=Spam+SMS+Detection)
 git overview 2
+git overview 3
 ## Overview
 This project aims to build a machine learning model that can classify SMS messages as spam or legitimate (ham). We use techniques like TF-IDF for text vectorization and classifiers such as Naive Bayes, Logistic Regression, and Support Vector Machines (SVM).
 
